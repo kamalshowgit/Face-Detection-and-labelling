@@ -2,6 +2,10 @@
 
 This repository contains a collection of projects related to the entertainment domain, specifically focused on face detection and recognition tasks. The projects aim to enhance the user experience in a movie application, automate cast and crew information, and develop a face identification model for recognizing human faces.
 
+
+
+
+
 ## Project 1: Automated Cast Information in Movie Scenes
 
 <p align="center">
@@ -103,3 +107,8 @@ Develop a face identification model using embeddings and SVM classifier for reco
    - Use the trained SVM model to predict faces in test images.
 
 Feel free to explore each project folder for more detailed information about the steps, code, and implementation.
+
+
+# How to use this github repo
+1. If you have training dataset the dirctly use our code to train the data and generate "Faces_dataset"
+2. Once you generate "faces_dataset" you are ready to use all our codes given above
