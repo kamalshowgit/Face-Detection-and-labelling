@@ -4,8 +4,9 @@ This repository contains a collection of projects related to the entertainment d
 
 ## Project 1: Automated Cast Information in Movie Scenes
 
-![Entertainment](entertainment.png)
-
+<p align="center">
+  <img src="entertainment.png" alt="Entertainment" width="400" height="300">
+</p>
 ### Context
 
 Company X owns a movie application that provides movie streaming services to millions of users on a subscription basis. The company aims to automate the process of displaying cast information in each scene when a user pauses a movie. The in-house computer vision and multimedia experts need to detect faces in movie scenes.
