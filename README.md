@@ -42,6 +42,7 @@ Build a face detection system to accurately identify human faces in movie scenes
 
 ## Project 2: Image Classifier Dataset Creation
 
+
 ### Context
 
 Company X intends to create an image dataset for building an image classifier. The dataset will be used by the AI team to develop an image classification model. The task involves detecting faces in profile images of individuals.
