@@ -9,7 +9,7 @@ This repository contains a collection of projects related to the entertainment d
 ## Project 1: Automated Cast Information in Movie Scenes
 
 <p align="center">
-  <img src="entertainment.png" alt="Entertainment" width="400" height="300">
+  <img src="entertainment.png" alt="Entertainment">
 </p>
 ### Context
 
